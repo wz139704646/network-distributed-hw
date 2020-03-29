@@ -1,0 +1,10 @@
+cycler
+kiwisolver
+matplotlib
+numpy
+Package
+pip
+pyparsing
+python-dateutil
+setuptools
+six
