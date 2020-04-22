@@ -3,6 +3,7 @@ import random
 from enum import Enum
 
 
+# TODO: 考虑将 cwnd 的增长封装，及时对其大小与 ssthresh 比较，及时进入 CA 状态
 # Congestion Control State
 class CCState(Enum):
     SS = 1      # Slow Start 慢启动
