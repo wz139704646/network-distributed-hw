@@ -14,6 +14,8 @@ if __name__ == "__main__":
 
 ### 运行
 
+使用visual studio（以管理员身份打开），或
+
 ```powershell
 python ping_udp.py # 要求具有 root 或管理员权限
 ```
@@ -21,6 +23,8 @@ python ping_udp.py # 要求具有 root 或管理员权限
 ## UDP Traceroute 图形用户界面程序
 
 ### 运行
+
+使用visual studio（以管理员身份打开），或
 
 ```powershell
 python main.py # 要求具有 root 或管理员权限
