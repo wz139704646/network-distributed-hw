@@ -1,0 +1,13 @@
+click==7.1.2
+helpdev==0.7.1
+importlib-metadata==1.6.1
+netaddr==0.7.19
+pip==19.2.3
+PyQt5==5.13.0
+PyQt5-sip==12.8.0
+pyqt5-tools==5.13.0.1.5
+python-dotenv==0.13.0
+QDarkStyle==2.8.1
+QtPy==1.9.0
+setuptools==41.2.0
+zipp==3.1.0
